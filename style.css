@@ -14,21 +14,19 @@
 	border-bottom-width: 1px;
 	margin-bottom: 20px;
 
-
 }
 
 .alert {
-
+	position: relative;
+	bottom: 8px;
 	text-align: center;
 	font-weight: 700;
 	line-height: 20px;
-	font-size: 16px;
-	height: 30px;
+	font-size: 15px;
 	width: 100%;
-
 	border-bottom-style: solid;
 	border-bottom-width: 1px;
-
+	margin-bottom: 20px;
 }
 
 
@@ -76,8 +74,8 @@ footer {
 
 	background-color: #282828;
 
-	width: 100vw;
-	/* height: 200px; */
+	/*width: 100vw;*/
+	height: 150px;
 	padding-top: 2.5em;
 }
 
